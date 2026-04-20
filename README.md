@@ -18,7 +18,7 @@
 This repository is for our paper:
 
 > **[Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms](PDF链接)** \
-> [Bo Yin*](主页链接占位)<sup>1</sup>, [Qi Li*](主页链接占位)<sup>1</sup>, [Other Authors] \
+> [****](主页链接占位)<sup>1</sup>, [*****](主页链接占位)<sup>1</sup>, [Other Authors] \
 > <sup>1</sup>National University of Singapore \
 > <sup>*</sup>Equal contribution. \
 > <sup>§</sup>Project Lead & Corresponding Author: yin.bo@u.nus.edu, liqi@u.nus.edu
