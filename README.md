@@ -85,14 +85,18 @@ This repository is for our paper:
 
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
-|[DropVLA: An action-level backdoor attack on vision-language-action models](https://arxiv.org/abs/2026) <br> Zonghuan Xu, Jiayu Li, et al. |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/占位符v1.png"> |[Paper](https://arxiv.org/abs/2026)|
+|[![Star](https://img.shields.io/github/stars/megaknight114/DropVLA.svg?style=social&label=Star)](https://github.com/megaknight114/DropVLA)<br>[DropVLA: An Action-Level Backdoor Attack on Vision-Language-Action Models](https://arxiv.org/pdf/2510.10932) <br> Xu, Zonghuan and Li, Jiayu and Zhao, Yunhan and Zheng, Xiang and Ma, Xingjun and Jiang, Yu-Gang |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2510.10932v4.png"> |[Github](https://github.com/megaknight114/DropVLA) <br> [Paper](https://arxiv.org/pdf/2510.10932)|[//]: #04/19
+|[![Star](https://img.shields.io/github/stars/Zxy-MLlab/BadVLA.svg?style=social&label=Star)](https://github.com/Zxy-MLlab/BadVLA)<br>[BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization](https://arxiv.org/pdf/2505.16640) <br> Zhou, Xueyang and Tie, Guiyao and Zhang, Guowen and Wang, Hechang and Zhou, Pan and Sun, Lichao |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2505.16640v1.png"> |[Github](https://github.com/Zxy-MLlab/BadVLA) <br> [Paper](https://arxiv.org/pdf/2505.16640)|[//]: #04/19
+|[Goal-oriented Backdoor Attack against Vision-Language-Action Models via Physical Objects](https://arxiv.org/pdf/2510.09269) <br> Zhou, Zirun and Xiao, Zhengyang and Xu, Haochuan and Sun, Jing and Wang, Di and Zhang, Jingfeng |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2510.09269v1.png"> |[Github](https://goba-attack.github.io/) <br> [Paper](https://arxiv.org/pdf/2510.09269)|[//]: #04/19
 
 #### Temporal and State-Space Backdoors
 [🔝 Back to Top](#quick-links)
 
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
-|[SilentDrift: Exploiting action chunking for stealthy backdoor attacks on vision-language-action models](https://arxiv.org/abs/2026) <br> Bingxin Xu, Yuzhang Shang, et al. |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/占位符v1.png"> |[Paper](https://arxiv.org/abs/2026)|
+|[State Backdoor: Towards Stealthy Real-world Poisoning Attack on Vision-Language-Action Model in State Space](https://arxiv.org/pdf/2601.04266) <br> Guo, Ji and Jiang, Wenbo and Lin, Yansong and Liu, Yijing and Zhang, Ruichen and Lu, Guomin and Chen, Aiguo and Han, Xinshuo and Li, Hongwei and Niyato, Dusit |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2601.04266v1.png"> |[Paper](https://arxiv.org/pdf/2601.04266)|[//]: #04/19
+|[SilentDrift: Exploiting Action Chunking for Stealthy Backdoor Attacks on Vision-Language-Action Models](https://arxiv.org/pdf/2601.14323) <br> Xu, Bingxin and Shang, Yuzhang and Wang, Binghui and Ferrara, Emilio |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2601.14323v1.png"> |[Paper](https://arxiv.org/pdf/2601.14323)|[//]: #04/19
+
 
 
 ### Training-Time Defenses
@@ -102,21 +106,26 @@ This repository is for our paper:
 
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
-|[EvoVLA: Self-evolving vision-language-action model](https://arxiv.org/abs/2025) <br> Zeting Liu, Zida Yang, et al. |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/占位符v1.png"> |[Paper](https://arxiv.org/abs/2025)|
+|[![Star](https://img.shields.io/github/stars/luffycodes/Tutorbot-Spock.svg?style=social&label=Star)](https://github.com/luffycodes/Tutorbot-Spock)<br>[Pedagogical Alignment of Large Language Models](https://arxiv.org/pdf/2402.05000) <br> Sonkar, Shashank and Ni, Kangqi and Chaudhary, Sapana and Baraniuk, Richard G. |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2402.05000v3.png"> |[Github](https://github.com/luffycodes/Tutorbot-Spock) <br> [Paper](https://arxiv.org/pdf/2402.05000)|[//]: #04/19
+|[![Star](https://img.shields.io/github/stars/AIGeeksGroup/EvoVLA.svg?style=social&label=Star)](https://github.com/AIGeeksGroup/EvoVLA)<br>[EvoVLA: Self-Evolving Vision-Language-Action Model](https://arxiv.org/pdf/2511.16166) <br> Liu, Zeting and Yang, Zida and Zhang, Zeyu and Tang, Hao |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2511.16166v1.png"> |[Github](https://github.com/AIGeeksGroup/EvoVLA) <br> [Paper](https://arxiv.org/pdf/2511.16166)|[//]: #04/19
+|[Generative Scenario Rollouts for End-to-End Autonomous Driving (GeRo)](https://arxiv.org/pdf/2601.11475) <br> Yasarla, Rajeev and Hegde, Deepti and Han, Shizhong and Cheng, Hsin-Pai and Shi, Yunxiao and Sadeghigooghari, Meysam and Mahajan, Shweta and Bhattacharyya, Apratim and Liu, Litian and Garrepalli, Risheek and Svantesson, Thomas and Porikli, Fatih and Cai, Hong |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2601.11475v1.png"> |[Paper](https://arxiv.org/pdf/2601.11475)|[//]: #04/19
+|[Safe-Night VLA: Seeing the Unseen via Thermal-Perceptive Vision-Language-Action Models for Safety-Critical Manipulation](https://arxiv.org/pdf/2603.05754) <br> Yu, Dian and Zhou, Qingchuan and Huang, Bingkun and Khadiv, Majid and Yang, Zewen |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2603.05754v1.png"> |[Paper](https://arxiv.org/pdf/2603.05754)|[//]: #04/19
 
 #### Policy-Centric Safety Optimization
 [🔝 Back to Top](#quick-links)
 
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
-|[SafeVLA: Towards safety alignment of vision-language-action model via constrained learning](https://arxiv.org/abs/2025) <br> Borong Zhang, Yuhao Zhang, et al. |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/占位符v1.png"> |[Paper](https://arxiv.org/abs/2025)|
+|[![Star](https://img.shields.io/github/stars/PKU-Alignment/SafeVLA.svg?style=social&label=Star)](https://github.com/PKU-Alignment/SafeVLA)<br>[SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning](https://arxiv.org/pdf/2503.03480) <br> Zhang, Borong and Zhang, Yuhao and Ji, Jiaming and Lei, Yingshan and Dai, Josef and Chen, Yuanpei and Yang, Yaodong |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2503.03480v3.png"> |[Github](https://github.com/PKU-Alignment/SafeVLA) <br> [Paper](https://arxiv.org/pdf/2503.03480)|[//]: #04/19
+|[Human-in-the-loop Online Rejection Sampling for Robotic Manipulation (Hi-ORS)](https://arxiv.org/pdf/2510.26406) <br> Lu, Guanxing and Zhao, Rui and Lin, Haitao and Zhang, He and Tang, Yansong |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2510.26406v1.png"> |[Github](https://hiors-project.github.io/) <br> [Paper](https://arxiv.org/pdf/2510.26406)|[//]: #04/19
+|[Safety Optimized Reinforcement Learning via Multi-Objective Policy Optimization (SORL)](https://arxiv.org/pdf/2402.15197) <br> Honari, Homayoun and Tamizi, Mehran Ghafarian and Najjaran, Homayoun |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2402.15197v1.png"> |[Paper](https://arxiv.org/pdf/2402.15197)|[//]: #04/19
 
 #### Human-in-the-Loop Policy Refinement
 [🔝 Back to Top](#quick-links)
 
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
-|[Human-assisted robotic policy refinement via action preference optimization](https://arxiv.org/abs/2025) <br> Wenke Xia, Yichu Yang, et al. |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/占位符v1.png"> |[Paper](https://arxiv.org/abs/2025)|
+|[![Star](https://img.shields.io/github/stars/GeWu-Lab/Action-Preference-Optimization.svg?style=social&label=Star)](https://github.com/GeWu-Lab/Action-Preference-Optimization)<br>[Human-assisted Robotic Policy Refinement via Action Preference Optimization (APO)](https://arxiv.org/pdf/2506.07127) <br> Xia, Wenke and Yang, Yichu and Wu, Hongtao and Ma, Xiao and Kong, Tao and Hu, Di |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2506.07127v3.png"> |[Github](https://github.com/GeWu-Lab/Action-Preference-Optimization) <br> [Paper](https://arxiv.org/pdf/2506.07127)|[//]: #04/19
 
 
 ### Inference-Time Attacks
