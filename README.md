@@ -21,7 +21,7 @@ This repository is for our paper:
 > [****](主页链接占位)<sup>1</sup>, [*****](主页链接占位)<sup>1</sup>, [Other Authors] \
 > <sup>1</sup>National University of Singapore \
 > <sup>*</sup>Equal contribution. \
-> <sup>§</sup>Project Lead & Corresponding Author: yin.bo@u.nus.edu, liqi@u.nus.edu
+> <sup>§</sup>Project Lead & Corresponding Author: xinchao@nus.edu.sg
 
 <p align="center">
   <img src="assets/vla_safety_tree.jpg" alt="Taxonomy" style="max-width:100%;" /><br />
