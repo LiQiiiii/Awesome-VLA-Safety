@@ -35,7 +35,7 @@ This repository is for our paper:
 </p>
 
 <p align="center">
-  <img src="assets/inference_tine_safety.jpg" alt="Taxonomy" style="max-width:100%;" /><br />
+  <img src="assets/inference_time_safety.jpg" alt="Taxonomy" style="max-width:100%;" /><br />
   <strong>Figure 3. Taxonomy of inference-time safety and robustness in VLA models.</strong>
 </p>
 
@@ -59,9 +59,6 @@ This repository is for our paper:
 > Should you identify any related work that has not been included, please feel free to notify us via Github PR or email: yin.bo@u.nus.edu, liqi@u.nus.edu. We will add your paper to the list as soon as possible.
 
 ---
-<p align="center">
-<img src="assets/taxonomy.png" width = "95%" alt="Taxonomy Image" align=center />
-</p>
 
 ### Quick Links
 
