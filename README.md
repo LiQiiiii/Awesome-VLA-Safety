@@ -24,6 +24,15 @@ This repository is for our paper:
 > <sup>§</sup>Project Lead \
 > <sup>†</sup>Corresponding Author: xinchao@nus.edu.sg
 
+## Citation
+```bibtex
+@article{vlasafety2026,
+  title={Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms},
+  author={name},
+  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  year={2026}
+}
+
 <p align="center">
   <img src="assets/vla_safety_tree.jpg" alt="Taxonomy" style="max-width:100%;" /><br />
   <strong>Figure 1. An overview of the VLA safety landscape covered in this survey.</strong>
@@ -39,14 +48,7 @@ This repository is for our paper:
   <strong>Figure 3. Taxonomy of inference-time safety and robustness in VLA models.</strong>
 </p>
 
-## Citation
-```bibtex
-@article{vlasafety2026,
-  title={Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms},
-  author={name},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
-  year={2026}
-}
+
 ```
 
 ---
