@@ -30,12 +30,12 @@ This repository is for our paper:
 </p>
 
 <p align="center">
-  <img src="assets/training_time_attacks" alt="Taxonomy" style="max-width:100%;" /><br />
+  <img src="assets/training_time_attacks.jpg" alt="Taxonomy" style="max-width:100%;" /><br />
   <strong>Figure 2. Training-time attacks on VLA models.</strong>
 </p>
 
 <p align="center">
-  <img src="assets/inference_tine_safety" alt="Taxonomy" style="max-width:100%;" /><br />
+  <img src="assets/inference_tine_safety.jpg" alt="Taxonomy" style="max-width:100%;" /><br />
   <strong>Figure 3. Taxonomy of inference-time safety and robustness in VLA models.</strong>
 </p>
 
