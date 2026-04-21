@@ -24,13 +24,8 @@ This repository is for our paper:
 > <sup>§</sup>Project Lead & Corresponding Author: yin.bo@u.nus.edu, liqi@u.nus.edu
 
 <p align="center">
-  <img src="assets/figure1.png" alt="Timeline" style="max-width:100%;" /><br />
-  <strong>Figure 1. Development timeline of representative VLA capability models and VLA safety research.</strong>
-</p>
-
-<p align="center">
   <img src="assets/vla_safety_tree.jpg" alt="Taxonomy" style="max-width:100%;" /><br />
-  <strong>Figure 2. An overview of the VLA safety landscape covered in this survey.</strong>
+  <strong>Figure 1. An overview of the VLA safety landscape covered in this survey.</strong>
 </p>
 
 ## Citation
