@@ -34,6 +34,17 @@ This repository is for our paper:
 }
 ```
 
+---
+> 🌟 If you find this resource helpful, please consider to star this repository and cite our [work](#citation)!
+> 
+> 🙋 Please let us know if you find out a mistake or have any suggestions!
+> 
+> **To add new papers or models**
+>
+> Should you identify any related work that has not been included, please feel free to notify us via Github PR or email: yin.bo@u.nus.edu, liqi@u.nus.edu. We will add your paper to the list as soon as possible.
+
+---
+
 <p align="center">
   <img src="assets/vla_safety_tree.jpg" alt="Taxonomy" style="max-width:100%;" /><br />
   <strong>Figure 1. An overview of the VLA safety landscape covered in this survey.</strong>
@@ -49,16 +60,7 @@ This repository is for our paper:
   <strong>Figure 3. Taxonomy of inference-time safety and robustness in VLA models.</strong>
 </p>
 
----
-> 🌟 If you find this resource helpful, please consider to star this repository and cite our [work](#citation)!
-> 
-> 🙋 Please let us know if you find out a mistake or have any suggestions!
-> 
-> **To add new papers or models**
->
-> Should you identify any related work that has not been included, please feel free to notify us via Github PR or email: yin.bo@u.nus.edu, liqi@u.nus.edu. We will add your paper to the list as soon as possible.
 
----
 
 ### Quick Links
 
