@@ -82,6 +82,12 @@ This repository is for our paper:
 - [Inference-Time Evaluation and Benchmarks](#evaluation-and-benchmarks)
   - [Multi-Level Benchmarks](#multi-level-benchmarks)
   - [Uncertainty Calibration](#uncertainty-calibration)
+- [Evaluation](#evaluation)
+  - [Adversarial Robustness Benchmarks](#adversarial-robustness-benchmarks)
+  - [Task-Level Safety Benchmarks](#task-level-safety-benchmarks)
+  - [Comprehensive Capability-and-Safety Benchmarks](#comprehensive-capability-and-safety-benchmarks)
+  - [Jailbreak and Alignment Benchmarks](#jailbreak-and-alignment-benchmarks)
+  - [Runtime Monitoring and Semantic Alignment Benchmarks](#runtime-monitoring-and-semantic-alignment-benchmarks)
 
 ### Training-Time Attacks
 
@@ -229,6 +235,7 @@ This repository is for our paper:
 
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[VLA-Risk: Benchmarking Vision-Language-Action Models with Physical Robustness](https://openreview.net/forum?id=31EjDFwFEe) <br> Ru, Yanchi and Zhao, Zhengyue and Ma, Yingzi and Liu, Xiaogeng and Xiao, Chaowei |— |[Paper](https://openreview.net/forum?id=31EjDFwFEe)|[//]: #04/21
 |[VLATest: Testing and Evaluating Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2409.12894) <br> Wang, Zhijie and Zhou, Zhehua and Song, Jiayang and Huang, Yuheng and Shu, Zhan and Ma, Lei |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2409.12894v2.png"> |[Paper](https://arxiv.org/abs/2409.12894)|[//]: #04/21
 |[Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics](https://arxiv.org/abs/2411.13587) <br> Wang, Taowen and Han, Cheng and Liang, James and Yang, Wenhao and Liu, Dongfang and Zhang, Luna Xinyu and Wang, Qifan and Luo, Jiebo and Tang, Ruixiang |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2411.13587v4.png"> |[Project](https://vlaattacker.github.io/) <br> [Paper](https://arxiv.org/abs/2411.13587)|[//]: #04/21
 |[![Star](https://img.shields.io/github/stars/ZJUshine/lamps-vla-robustness.github.io.svg?style=social&label=Star)](https://github.com/ZJUshine/lamps-vla-robustness.github.io)<br>[Exploring the Robustness of Vision-Language-Action Models against Sensor Attacks](https://dl.acm.org/doi/10.1145/3733800.3763262) <br> Lu, Xuancun and Chen, Jiaxiang and Xiao, Shilin and Jin, Zizhi and Zhou, Ruochen and Ji, Xiaoyu and Xu, Wenyuan |<img width="1002" alt="image" src="https://zjushine.github.io/lamps-vla-robustness.github.io/static/images/Method.png"> |[Github](https://github.com/ZJUshine/lamps-vla-robustness.github.io) <br> [Paper](https://dl.acm.org/doi/pdf/10.1145/3733800.3763262)|[//]: #04/21
@@ -239,7 +246,7 @@ This repository is for our paper:
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/shengyin1224/SafeAgentBench.svg?style=social&label=Star)](https://github.com/shengyin1224/SafeAgentBench)<br>[SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents](https://arxiv.org/abs/2412.13178) <br> Yin, Sheng and Pang, Xianghe and Ding, Yuanzhuo and Chen, Menglan and Bi, Yutong and Xiong, Yichen and Huang, Wenhao and Xiang, Zhen and Shao, Jing and Chen, Siheng |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2412.13178v5.png"> |[Github](https://github.com/shengyin1224/SafeAgentBench) <br> [Paper](https://arxiv.org/abs/2412.13178)|[//]: #04/21
-|[AgentSafe: Safeguarding Large Language Model-based Multi-agent Systems via Hierarchical Data Management](https://arxiv.org/abs/2503.04392) <br> Mao, Junyuan and Meng, Fanci and Duan, Yifan and Yu, Miao and Jia, Xiaojun and Fang, Junfeng and Liang, Yuxuan and Wang, Kun and Wen, Qingsong |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2503.04392v2.png"> |[Paper](https://arxiv.org/abs/2503.04392)|[//]: #04/21
+|[AgentSafe: Benchmarking the Safety of Embodied Agents on Hazardous Instructions](https://arxiv.org/abs/2506.14697) <br> Ying, Zonghao and Wang, Le and Xiao, Yisong and Wang, Jiakai and Ma, Yuqing and Guo, Jinyang and Yin, Zhenfei and Zhang, Mingchuan and Liu, Aishan and Liu, Xianglong |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2506.14697v1.png"> |[Paper](https://arxiv.org/abs/2506.14697)|[//]: #04/21
 |[SafeMind: Benchmarking and Mitigating Safety Risks in Embodied LLM Agents](https://arxiv.org/abs/2509.25885) <br> Chen, Ruolin and Sun, Yinqian and Wang, Jihang and Lv, Mingyang and Zhang, Qian and Zeng, Yi |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2509.25885v1.png"> |[Paper](https://arxiv.org/abs/2509.25885)|[//]: #04/21
 
 #### Comprehensive Capability-and-Safety Benchmarks
@@ -251,6 +258,7 @@ This repository is for our paper:
 |[![Star](https://img.shields.io/github/stars/OpenMOSS/VLABench.svg?style=social&label=Star)](https://github.com/OpenMOSS/VLABench)<br>[VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks](https://arxiv.org/abs/2412.18194) <br> Zhang, Shiduo and Xu, Zhe and Liu, Peiju and Yu, Xiaopeng and Li, Yuan and Gao, Qinghui and Fei, Zhaoye and Yin, Zhangyue and Wu, Zuxuan and Jiang, Yu-Gang and Qiu, Xipeng |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2412.18194v1.png"> |[Github](https://github.com/OpenMOSS/VLABench) <br> [Paper](https://arxiv.org/abs/2412.18194)|[//]: #04/21
 |[![Star](https://img.shields.io/github/stars/Lifelong-Robot-Learning/LIBERO.svg?style=social&label=Star)](https://github.com/Lifelong-Robot-Learning/LIBERO)<br>[LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning](https://arxiv.org/abs/2306.03310) <br> Liu, Bo and Zhu, Yifeng and Gao, Chongkai and Feng, Yihao and Liu, Qiang and Zhu, Yuke and Stone, Peter |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2306.03310v2.png"> |[Github](https://github.com/Lifelong-Robot-Learning/LIBERO) <br> [Paper](https://arxiv.org/abs/2306.03310)|[//]: #04/21
 |[![Star](https://img.shields.io/github/stars/Zxy-MLlab/LIBERO-PRO.svg?style=social&label=Star)](https://github.com/Zxy-MLlab/LIBERO-PRO)<br>[LIBERO-PRO: Towards Robust and Fair Evaluation of Vision-Language-Action Models Beyond Memorization](https://arxiv.org/abs/2510.03827) <br> Zhou, Xueyang and Xu, Yangming and Tie, Guiyao and Chen, Yongchao and Zhang, Guowen and Chu, Duanfeng and Zhou, Pan and Sun, Lichao |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2510.03827v1.png"> |[Github](https://github.com/Zxy-MLlab/LIBERO-PRO) <br> [Paper](https://arxiv.org/abs/2510.03827)|[//]: #04/21
+|[CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents](https://arxiv.org/abs/2511.20216) <br> Seong, Haebin and Kim, Sungmin and Kim, Minchan and Cho, Yongjun and Joe, Myunchul and Choi, Suhwan and Jung, Jaeyoon and Youn, Jiyong and Kim, Yoonshik and Seong, Samwoo and others |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2511.20216v1.png"> |[Paper](https://arxiv.org/abs/2511.20216)|[//]: #04/21
 
 #### Jailbreak and Alignment Benchmarks
 [🔝 Back to Top](#quick-links)
