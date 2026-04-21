@@ -32,6 +32,7 @@ This repository is for our paper:
   journal={arXiv preprint arXiv:xxxx.xxxxx},
   year={2026}
 }
+```
 
 <p align="center">
   <img src="assets/vla_safety_tree.jpg" alt="Taxonomy" style="max-width:100%;" /><br />
@@ -47,9 +48,6 @@ This repository is for our paper:
   <img src="assets/inference_time_safety.jpg" alt="Taxonomy" style="max-width:100%;" /><br />
   <strong>Figure 3. Taxonomy of inference-time safety and robustness in VLA models.</strong>
 </p>
-
-
-```
 
 ---
 > 🌟 If you find this resource helpful, please consider to star this repository and cite our [work](#citation)!
