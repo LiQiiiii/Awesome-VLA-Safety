@@ -29,7 +29,7 @@ This repository is for our paper:
 </p>
 
 <p align="center">
-  <img src="assets/figure2.png" alt="Taxonomy" style="max-width:100%;" /><br />
+  <img src="assets/vla_safety_tree.jpg" alt="Taxonomy" style="max-width:100%;" /><br />
   <strong>Figure 2. An overview of the VLA safety landscape covered in this survey.</strong>
 </p>
 
