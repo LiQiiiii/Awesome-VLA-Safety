@@ -74,7 +74,7 @@ This repository is for our paper:
   - [Decision-Layer Guardrails](#decision-layer-guardrails)
   - [Runtime Monitoring](#runtime-monitoring)
   - [Physical Fail-safes](#physical-fail-safes)
-- [Evaluation and Benchmarks](#evaluation-and-benchmarks)
+- [Inference-Time Evaluation and Benchmarks](#evaluation-and-benchmarks)
   - [Multi-Level Benchmarks](#multi-level-benchmarks)
   - [Uncertainty Calibration](#uncertainty-calibration)
 
@@ -193,7 +193,7 @@ This repository is for our paper:
 |[CompliantVLA-adaptor: VLM-Guided Variable Impedance Action for Safe Contact-Rich Manipulation](https://arxiv.org/abs/2601.15541) <br> Heng Zhang, Wei-Hsing Huang, Qiyi Tong, Gokhan Solak, Puze Liu, Kaidi Zhang, Sheng Liu, Jan Peters, Yu She, Arash Ajoudani |<img width="1002" alt="image" src="https://paper-assets.alphaxiv.org/image/2601.15541v2.png"> |[Paper](https://arxiv.org/abs/2601.15541)|[//]: #04/20
 
 
-### Evaluation and Benchmarks
+### Inference-Time Evaluation and Benchmarks
 
 #### Multi-Level Benchmarks
 [🔝 Back to Top](#quick-links)
