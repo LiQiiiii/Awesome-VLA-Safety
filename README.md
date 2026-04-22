@@ -19,11 +19,13 @@ This repository is for our paper:
 
 > **[Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms](PDF链接)** \
 > [****](主页链接占位)<sup>1</sup>, [*****](主页链接占位)<sup>1</sup>, [Other Authors] \
-> Qi Li<sup>*,§,1</sup>, Bo Yin<sup>*,1</sup>, Weiqi Huang<sup>*,1</sup>,  \
-> Ruhao Liu<sup>*,1</sup>, Bojun Zou<sup>3,1</sup>, Runpeng Yu<sup>1</sup>, \ 
-> Jingwen Ye<sup>2,1</sup>, Weihao Yu<sup>3,1</sup>, Xinchao Wang<sup>†,1</sup> \
+> Qi Li<sup>&ast;,§,1</sup>, Bo Yin<sup>&ast;,1</sup>, Weiqi Huang<sup>&ast;,1</sup>,<br>
+> Ruhao Liu<sup>&ast;,1</sup>, Bojun Zou<sup>3,1</sup>, Runpeng Yu<sup>1</sup>,<br>
+> Jingwen Ye<sup>2,1</sup>, Weihao Yu<sup>3,1</sup>, Xinchao Wang<sup>†,1</sup><br>
 > <sup>1</sup>National University of Singapore  <sup>2</sup>Monash University  <sup>3</sup>Peking University  \
 > <sup>*</sup>Equal Contribution  <sup>§</sup>Project Lead  <sup>†</sup>Corresponding Author: xinchao@nus.edu.sg 
+
+
 
 ## Citation
 ```bibtex
