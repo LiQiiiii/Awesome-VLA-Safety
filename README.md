@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<a href="arXiv链接" target="_blank"><img src="https://img.shields.io/badge/arXiv-即将发布-009688.svg" alt="arXiv"></a>
+<a href="https://arxiv.org/pdf/2604.23775" target="_blank"><img src="https://img.shields.io/badge/arXiv-2604.23775.svg" alt="arXiv"></a>
 ![](https://img.shields.io/github/stars/LiQiiiii/Awesome-VLA-Safety?color=yellow)
 ![](https://img.shields.io/github/forks/LiQiiiii/Awesome-VLA-Safety?color=lightblue)
 ![](https://img.shields.io/github/last-commit/LiQiiiii/Awesome-VLA-Safety?color=green)
