@@ -27,10 +27,10 @@ This repository is for our paper:
 
 ## Citation
 ```bibtex
-@article{vlasafety2026,
+@article{li2026vlasafety,
   title={Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms},
-  author={name},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  author={Li, Qi and Yin, Bo and Huang, Weiqi and Liu, Ruhao and Zou, Bojun and Yu, Runpeng and Ye, Jingwen and Yu, Weihao and Wang, Xinchao},
+  journal={arXiv preprint arXiv:2604.23775},
   year={2026}
 }
 ```
