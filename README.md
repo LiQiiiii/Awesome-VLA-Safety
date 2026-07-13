@@ -57,7 +57,7 @@ This repository is for our paper:
 </p>
 
 <p align="center">
-  <img src="assets/inference_time_safety.pdf" alt="Taxonomy" style="max-width:100%;" /><br />
+  <img src="assets/inference_time_safety.jpg" alt="Taxonomy" style="max-width:100%;" /><br />
   <strong>Figure 3. Taxonomy of inference-time safety and robustness in VLA models.</strong>
 </p>
 
