@@ -184,6 +184,7 @@ This repository is for our paper:
 |[Safety guardrails for llm-enabled robots](https://arxiv.org/pdf/2503.07885) <br> Zachary Ravichandran, Alexander Robey, Vijay Kumar, George J. Pappas, Hamed Hassani |[Paper](https://arxiv.org/pdf/2503.07885)|
 |[From Words to Safety: Language-Conditioned Safety Filtering for Robot Navigation](https://arxiv.org/abs/2511.05889) <br> Zeyuan Feng, Haimingyue Zhang, Somil Bansal |[Paper](https://arxiv.org/abs/2511.05889)|
 |[Restoring Linguistic Grounding in VLA Models via Train-Free Attention Recalibration](https://arxiv.org/abs/2603.06001) <br> Zhang, Ninghao and Zhu, Bin and Zhou, Shijie and Chen, Jingjing |[Paper](https://arxiv.org/abs/2603.06001)|
+|[![Star](https://img.shields.io/github/stars/zhuqinfeng1999/LEASH.svg?style=social&label=Star)](https://github.com/zhuqinfeng1999/LEASH)<br>[LEASH: Stay Safe in Agentic Robotics](https://arxiv.org/abs/2611.14115) <br> Zhu, Qinfeng and Zhao, Weiguang and Sun, Ke and Guo, Xihao and Jiang, Yunxi and Zhang, Rui and Fan, Lei and Huang, Kaizhu |[Paper](https://arxiv.org/abs/2611.14115)|
 
 
 #### Runtime Monitoring
